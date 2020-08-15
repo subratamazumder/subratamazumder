@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subratamazumder)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subratamazumder&layout=compact)
 ![Subrata's github stats](https://github-readme-stats.vercel.app/api?username=subratamazumder&show_icons=true)
